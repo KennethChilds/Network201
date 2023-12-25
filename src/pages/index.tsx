@@ -15,7 +15,7 @@ export default function Home() {
             <span className="">Network201</span>
           </h1>
           <h2 className="text-4xl container flex flex-col items-center justify-center px-4">
-            <span className="">A Network Of Exceptional, Young Talent</span>
+            <span className="">A Group Of Exceptional, Young Talent</span>
           </h2>
           <div className="gap-4">
             <Link
