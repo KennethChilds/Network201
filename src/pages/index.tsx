@@ -7,8 +7,7 @@ export default function Home() {
       <Head>
         <title>Network201</title>
         <meta name="Network201 Is a Network of Young and Talented People that are Interested in Building the Future"/>
-        <Link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 
-        viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>🌐</text></svg>"></Link>
+        <link rel="icon" href="/images/favicon.ico" sizes="any" />
       </Head>
       <main className="">
         <div className="flex h-screen flex-col items-center justify-center gap-12 px-4 py-16 ">
