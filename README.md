@@ -8,6 +8,4 @@
 - **🚀 Want To Build The Future**
 - **✔️ Achieved Anything Extraordinary**
 
-* ## [What We Believe](network.kenneth.biz/tenets)
-
 * ## [Apply](https://forms.gle/aW2KErxrQQZgptdG6)
