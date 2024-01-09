@@ -14,8 +14,8 @@ export default function Home() {
           <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
             <span className="">Network201</span>
           </h1>
-          <h2 className="text-4xl container flex flex-col items-center justify-center px-4">
-            <span className="">A Group Of Exceptional, Young Talent</span>
+          <h2 className="text-4xl container flex flex-col items-center justify-center text-center px-4">
+            <span className="">A Human Capital Organization Comprising of Exceptional, Young Talent</span>
           </h2>
           <div className="gap-4">
             <Link
