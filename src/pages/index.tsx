@@ -26,6 +26,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold">Apply →</h3>
             </Link>
           </div>
+          <div className="">contact@network201.com</div>
         </div>
       </main>
     </>
