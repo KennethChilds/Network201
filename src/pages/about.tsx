@@ -17,7 +17,8 @@ export default function About() {
           <h2 className="container flex flex-col px-4">
             <span className="text-2xl text-center">We help young people build their startups.</span>
             <span className="text-2xl text-center">Gain access to mentoring, collaborate with likemindend
-            individuals, and start a real business – All for free. </span>
+            individuals, and start a real business</span>
+            <span className="text-2xl text-center">All for free.</span>
           </h2>
             <div className="flex flex-col items-center justify-end">
             <Link
